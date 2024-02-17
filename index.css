@@ -99,7 +99,7 @@ span hr {
   flex-direction: row;
   align-items: center;
   /* gap: 110px; */
-  margin-top:370px;
+  margin-top:320px;
   
 }
 .logo-1{
@@ -107,18 +107,21 @@ span hr {
   flex-direction: column;
   width: 200px;
   text-align: center;
+  row-gap: 20px;
 }
 .logo-2{
   display: flex;
   flex-direction: column;
   width: 200px;
   text-align: center;
+  row-gap: 20px;
 }
 .logo-3{
   display: flex;
   flex-direction: column;
   width: 200px;
   text-align: center;
+  row-gap: 20px;
 }
 .circle{
   text-align: center;
@@ -234,6 +237,7 @@ footer{
   .paras{
     flex-direction: column;
     height: 100%;
+    gap:40px;
   }
   .lastpic img{
     position: absolute;
